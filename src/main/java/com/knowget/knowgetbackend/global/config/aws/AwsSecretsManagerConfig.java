@@ -15,5 +15,6 @@ public class AwsSecretsManagerConfig {
 			.region(Region.of("ap-northeast-2"))
 			.credentialsProvider(DefaultCredentialsProvider.create())
 			.build();
+
 	}
 }
