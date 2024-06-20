@@ -35,7 +35,6 @@ public class AdminController {
 		List<AdminResponseDTO> users = adminService.getAllUsers();
 
 		return new ResponseEntity<>(users, HttpStatus.OK);
-
 	}
 
 	/** 회원 상태 변경
