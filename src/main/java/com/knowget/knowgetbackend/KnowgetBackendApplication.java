@@ -13,5 +13,5 @@ public class KnowgetBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KnowgetBackendApplication.class, args);
 	}
-
+	
 }
