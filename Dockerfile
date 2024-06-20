@@ -12,3 +12,4 @@ EXPOSE 8080
 
 # 컨테이너가 시작될 때 실행되는 명령어 지정 (스크립트 파일 지정도 가능)
 ENTRYPOINT ["java", "-jar", "/app.jar"]
+
