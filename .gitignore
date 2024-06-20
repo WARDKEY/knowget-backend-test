@@ -7,6 +7,10 @@
 /dataSources/
 /dataSources.local.xml
 
+# application properties & jwt
+application.properties
+jwt.yml
+
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,visualstudiocode,java,vue,vuejs
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,visualstudiocode,java,vue,vuejs
 
